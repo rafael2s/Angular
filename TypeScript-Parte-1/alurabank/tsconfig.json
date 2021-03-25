@@ -2,7 +2,8 @@
     "compilerOptions": {
         "target": "es6", // Versão que o ts passara apos ser compilado
         "outDir": "app/js",
-        "noEmitOnError": true // Não gera arquivo JS caso tenha algum erro durante a compilacao
+        "noEmitOnError": true, // Não gera arquivo JS caso tenha algum erro durante a compilacao
+        "noImplicitAny": true 
     },
     "include": [
         "app/ts/**/*"

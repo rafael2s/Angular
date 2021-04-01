@@ -14,3 +14,10 @@
 - Utilização de tipos explícitos;
 - Conversão explícita de tipos através de casting;
 - Benefícios de utilizarmos os tipo específicos;
+
+**Aula 03 - Elaborando uma solução view**
+
+- Criando de um novo modelo para encapsular uma lista de objetos do tipo Negociacao;
+- Array e generics;
+- Manipulação declarativa do DOM através de template;
+- Template dinâmico;

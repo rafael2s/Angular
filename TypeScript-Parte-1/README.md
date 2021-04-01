@@ -27,3 +27,12 @@
 - Reuso de código através de herança;
 - Generics;
 - Classes abstratas;
+
+**Aula 05 - TypeScript definitions**
+
+- O problema de usarmos bibliotecas que ficam no escopo global e que não foram criados com TypeScript;
+- "Calar a boca" do compilador com declare var;
+- As desvantagens de declare var com o tipo any;
+- O papel do TypeScript Definition;
+- Instalação de arquivos td.s de terceiros;
+- Remoção de comentário durante a compilação;

@@ -21,3 +21,9 @@
 - Array e generics;
 - Manipulação declarativa do DOM através de template;
 - Template dinâmico;
+
+**Aula 04 - Herança, reaproveitamento de código**
+
+- Reuso de código através de herança;
+- Generics;
+- Classes abstratas;
